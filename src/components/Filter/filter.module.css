@@ -1,0 +1,23 @@
+
+.filter-cnt{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+
+.clear-filter{
+    color:blue;
+    
+    display: flex;
+    justify-content: end;
+    padding-right: 15px;
+    padding-bottom: 10px;
+    font-size: 20px;
+
+}
+
+.clear-filter span{
+    cursor: pointer;
+}

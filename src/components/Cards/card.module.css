@@ -1,0 +1,33 @@
+.card{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding-left: 10%;
+    padding-right: 10%;
+    background-image: linear-gradient(to right, #434343 0%, black 100%);
+    gap: 3%;
+    /* min-width: 100vh; */
+    /* min-height: 400px; */
+    
+}
+
+.ch-h{
+    display: flex;
+    margin-top: 20px;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    text-shadow: [x-offset] [y-offset] [blur-radius] [color];
+
+}
+
+@media only screen AND (max-width: 629px) {
+    .card{
+       flex-direction: column;
+       justify-content: center;
+       align-items: center;
+       min-width: auto;
+    min-height: auto;
+       
+    }
+}
