@@ -1,4 +1,14 @@
-# Getting Started with Create React App
+## About 
+An application that displays the characters’ profiles of the Rick & Morty sitcom, using the REST Version of Rick & Morty API. https://rickandmortyapi.com/
+React Features Implemented are:
+* React Hooks
+* Fetch API
+* Data Filters
+* Search Bar
+* React-Router-Dom
+* Dynamic-Routing
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
