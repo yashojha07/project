@@ -7,6 +7,7 @@ React Features Implemented are:
 * Search Bar
 * React-Router-Dom
 * Dynamic-Routing
+* state management
 
 ## Getting Started with Create React App
 
